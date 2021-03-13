@@ -1,0 +1,2 @@
+# CDN
+For saving imgs
